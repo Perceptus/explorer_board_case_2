@@ -6,7 +6,7 @@ https://github.com/EnhancedRadioDevices/915MHzEdisonExplorer
 
 Here are a couple of pictures of the finished 3D printed case:
 
-![Explorer Case](explorer_board_a.jpg)
+![Explorer Case](explorer_board_a.png)
 
 ![Explorer Case](explorer_board_b.jpg)
 
