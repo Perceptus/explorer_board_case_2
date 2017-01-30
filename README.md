@@ -14,4 +14,8 @@ The case has two compartments. One for the Explorer Board + Edison & one for the
 
 They should be arranged as shown on the picture so the battery connector does not get stuck in the case.
 
+There is a variation on the case... a belt clip.
+
+![Explorer Case](explorer_board_c.jpg)
+
 Will probably make it softer / rounder later...
